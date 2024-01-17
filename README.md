@@ -1,21 +1,25 @@
-Welcome to Skarta!
+# Welcome to Skarta!
 
-Created By:
+## Created By:
 
-Sarosh Krishan
-Ahsan Tahir
-Tayyab Ahmed
+Sarosh Krishan,
+Ahsan Tahir,
+Tayyab Ahmed.
+
+![Poster 2](https://github.com/sarosh2/Skarta/assets/41180340/a7afc639-8433-4ed8-8864-5b28fbc50a21)
+
+
 
 SKARTA is a 2D side-scrolling level-based platformer
 where the player plays as a combination of the three characters
 Ahsan, Sarosh and Tayyab. The player can switch between these
 characters at will and must use their unique abilities to complete
-all the levels and defeat all the bosses
+all the levels and defeat all the bosses.
 
-Before you start the game:
+### Before you start the game:
 
 Since the game runs on full screen and was designed on 1920 x 1080 displays, 
-you need a display of 1920 x 1080 resolution in order to play the game
+you need a display of 1920 x 1080 resolution in order to play the game.
 
 In order to find out whether or not you have a 1920 x 1080 display, follow the following steps:
 
@@ -29,9 +33,9 @@ Please connect your commputer to a 1920 x 1080 monitor or TV using an HDMI cable
 If you don't have a 1920 x 1080 display available to you, you can still try running the game, but results may vary.
 
 
-How to start the game:
+### How to start the game:
 
-There are two ways you can play the game.
+There are three ways you can play the game.
 
 1. The folder named "Game" is an intellij project folder.
    If you have IntelliJ IDEA or IntelliJ IDEA Community Edition, open the IDE and open the "Game" folder as a project.
