@@ -51,6 +51,7 @@ There are three ways you can play the game.
    You can then paste the classes from Game --> src --> com --> game into the source folder of this project.
    You will also need to create a library root folder in the project named "Assets" and and copy everything from Game --> Assets into that folder.
 
+3. You can download the executible version of the game from the link: https://drive.google.com/file/d/1BUPfDq_7LLzEWUXBsc-5uiz1fDcKqTs-/view?usp=sharing
 
 Thank You for Playing!
 Have fun:)
