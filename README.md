@@ -16,6 +16,11 @@ Ahsan, Sarosh and Tayyab. The player can switch between these
 characters at will and must use their unique abilities to complete
 all the levels and defeat all the bosses.
 
+## Demo
+https://github.com/sarosh2/Skarta/assets/41180340/71a618e9-eed4-4a7f-bd41-174d4aea66fc
+
+
+
 ### Before you start the game:
 
 Since the game runs on full screen and was designed on 1920 x 1080 displays, 
