@@ -18,6 +18,7 @@ all the levels and defeat all the bosses.
 
 ## Demo
 https://github.com/sarosh2/Skarta/assets/41180340/71a618e9-eed4-4a7f-bd41-174d4aea66fc
+Sorry about the audio quality. A better quality video is available for download in the repo.
 
 
 
